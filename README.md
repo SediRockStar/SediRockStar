@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats-nine-omega-89.vercel.app/api?username=SediRockStar&line_height=20&theme=tokyonight&hide_rank=false&show_icons=true&count_private=true">
+  <img src = "https://github-readme-stats-nine-omega-89.vercel.app/api?username=SediRockStar&count_private=true&line_height=20&theme=tokyonight&hide_rank=false&show_icons=true">
   <img src = "https://github-readme-stats-nine-omega-89.vercel.app/api/top-langs/?username=SediRockStar&layout=compact&theme=tokyonight">
 </p>
